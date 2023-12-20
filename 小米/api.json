@@ -95,15 +95,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "csp_77",
-            "name": "🥣七七┃APP",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+        //{"key": "csp_77","name": "🥣七七┃APP","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
         {
             "key": "Xinsj",
             "name": "👓视觉┃直连",
